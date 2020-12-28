@@ -46,7 +46,7 @@ Para organizar os arquivos da jam
 - [ ] Sons da cutscene
 - [x] Som do rádio
 - [x] Som do jato dagua
-- [] Som do machado
+- [x] Som do machado
 - [ ] Som dos objetos sendo destruidos pelo machado
 - [x] Som do fogo
 - [ ] Musica de game over
