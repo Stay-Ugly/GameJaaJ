@@ -41,12 +41,12 @@ Para organizar os arquivos da jam
 
 - [ ] Sons da introdução - Gritaria Studio e GameJaaj
 - [ ] Música do Menu
-- [ ] Sons dos botões
+- [x] Sons dos botões
 - [ ] Música Cutscene
 - [ ] Sons da cutscene
-- [ ] Som do rádio
-- [ ] Som do jato dagua
-- [ ] Som do machado
+- [x] Som do rádio
+- [x] Som do jato dagua
+- [] Som do machado
 - [ ] Som dos objetos sendo destruidos pelo machado
-- [ ] Som do fogo
+- [x] Som do fogo
 - [ ] Musica de game over
