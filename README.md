@@ -34,7 +34,7 @@ Para organizar os arquivos da jam
 - [ ] Fogo
 - [ ] Fumaça
 - [ ] Tile sets
-- [x]Adicionar um frame novo ao persongem
+- [ ]Adicionar um frame novo ao persongem
 - [x] Sobreviventes 
 - [ ] Detalhar sobreviventes
 
