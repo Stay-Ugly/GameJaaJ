@@ -24,17 +24,19 @@ Para organizar os arquivos da jam
 - [ ] Menu Principal (Botões e UI)
 - [ ] Menu de Controles 
 - [ ] Cinematic inicial
+- [x]Pixel art personagem
 - [ ] Pixel art - Rádio
-- [ ] Mangueira
+- [x] Extintor
 - [ ] Particular de agua mangueira
-- [ ] Machado
+- [x] Machado
 - [ ] Hud O2
 - [ ] Hud de Vida
 - [ ] Fogo
 - [ ] Fumaça
 - [ ] Tile sets
-
-
+- [x]Adicionar um frame novo ao persongem
+- [x] Sobreviventes 
+- [] Detalhar sobreviventes
 
 ## Música
 
