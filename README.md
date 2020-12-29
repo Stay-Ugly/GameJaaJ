@@ -36,7 +36,7 @@ Para organizar os arquivos da jam
 - [ ] Tile sets
 - [x]Adicionar um frame novo ao persongem
 - [x] Sobreviventes 
-- [] Detalhar sobreviventes
+- [ ] Detalhar sobreviventes
 
 ## Música
 
